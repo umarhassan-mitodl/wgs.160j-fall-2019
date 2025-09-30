@@ -1,0 +1,20 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: a88517d9-aa26-38f7-8e00-9c13c4f037ee
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus-and-calendar
+  weight: 10
+- identifier: 015aad82-9b9e-b841-1611-4513152b434e
+  name: Readings and Videos
+  pageRef: /pages/readings-and-videos/
+  weight: 20
+- identifier: 4acaa65f-ba88-5cb7-af16-debc9e4ad604
+  name: Reading Guides
+  pageRef: /pages/readings-and-videos/reading-guides
+  parent: 015aad82-9b9e-b841-1611-4513152b434e
+  weight: 30
+- identifier: c0c989ab-4577-aa33-bc98-c3011cd9424e
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
